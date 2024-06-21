@@ -19,6 +19,7 @@
 
 ## concepts Applied and techniques used :
 - Clean Architecture + CQRS using MediatR and EF Core for command and query sides
+- Using FluentValidation to seperate validation logic from controllers
 - Unit Of Work Pattern along with repositories
 - SOLID Principles
 - Handling file uploads using Azure Blob Storage
