@@ -4,7 +4,7 @@
 ***
 ## technologies and tools used :
 - c# 12
-- ASP.Net Core MVC
+- ASP.Net Core Web Api
 - Asp.Net Core Identity
 - MS Sql Server
 - Entity Framework Core 8 + LINQ
