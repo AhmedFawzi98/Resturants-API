@@ -1,0 +1,10 @@
+@Resturants.Api_HostAddress = http://localhost:5249
+###
+
+
+GET {{Resturants.Api_HostAddress}}/api/restaurants?includes=false&&pagesize=5&&pagenumber=0
+
+###
+
+
+

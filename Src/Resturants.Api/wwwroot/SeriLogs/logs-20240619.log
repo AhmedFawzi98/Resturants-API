@@ -1,0 +1,1064 @@
+[Warning] 19-06 15:26:01 || Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+[Warning] 19-06 15:26:01 || The entity type '"Address"' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+[Warning] 19-06 15:26:01 || No store type was specified for the decimal property '"Price"' on entity type '"Dish"'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[Warning] 19-06 15:26:01 || The entity type '"Address"' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+[Warning] 19-06 15:26:01 || No store type was specified for the decimal property '"Price"' on entity type '"Dish"'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[Warning] 19-06 15:28:29 || Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+[Warning] 19-06 15:28:30 || The entity type '"Address"' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+[Warning] 19-06 15:28:30 || No store type was specified for the decimal property '"Price"' on entity type '"Dish"'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[Warning] 19-06 15:28:30 || The entity type '"Address"' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+[Warning] 19-06 15:28:30 || No store type was specified for the decimal property '"Price"' on entity type '"Dish"'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[Information] 19-06 15:28:31 || Executed DbCommand ("153"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[Information] 19-06 15:28:31 || Executed DbCommand ("162"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');"
+[Information] 19-06 15:28:31 || Executed DbCommand ("148"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];"
+[Warning] 19-06 15:28:49 || Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+[Warning] 19-06 15:28:49 || The entity type '"Address"' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+[Warning] 19-06 15:28:49 || No store type was specified for the decimal property '"Price"' on entity type '"Dish"'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[Warning] 19-06 15:28:49 || The entity type '"Address"' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+[Warning] 19-06 15:28:49 || No store type was specified for the decimal property '"Price"' on entity type '"Dish"'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[Warning] 19-06 15:29:01 || Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+[Warning] 19-06 15:29:01 || The entity type '"Address"' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+[Warning] 19-06 15:29:01 || No store type was specified for the decimal property '"Price"' on entity type '"Dish"'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[Information] 19-06 15:29:02 || Executed DbCommand ("159"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[Information] 19-06 15:29:02 || Executed DbCommand ("160"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');"
+[Information] 19-06 15:29:02 || Executed DbCommand ("148"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[Information] 19-06 15:29:02 || Executed DbCommand ("148"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');"
+[Information] 19-06 15:29:03 || Executed DbCommand ("151"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];"
+[Information] 19-06 15:29:03 || Applying migration '"20240619122850_addingLogoUrlToRestaurant"'.
+[Information] 19-06 15:29:03 || Executed DbCommand ("151"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""ALTER TABLE [Restaurants] ADD [LogoUrl] nvarchar(max) NULL;"
+[Information] 19-06 15:29:03 || Executed DbCommand ("149"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20240619122850_addingLogoUrlToRestaurant', N'8.0.6');"
+[Warning] 19-06 15:32:19 || Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+[Warning] 19-06 15:32:19 || The entity type '"Address"' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+[Warning] 19-06 15:32:19 || No store type was specified for the decimal property '"Price"' on entity type '"Dish"'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[Information] 19-06 15:32:20 || Executed DbCommand ("161"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[Information] 19-06 15:32:20 || Executed DbCommand ("166"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');"
+[Information] 19-06 15:32:21 || Executed DbCommand ("154"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];"
+[Information] 19-06 15:32:21 || Executed DbCommand ("166"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[Information] 19-06 15:32:21 || Executed DbCommand ("154"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [AspNetRoles] AS [a]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END"
+[Information] 19-06 15:32:21 || Executed DbCommand ("155"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [AspNetUsers] AS [a]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END"
+[Information] 19-06 15:32:22 || Executed DbCommand ("157"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Restaurants] AS [r]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END"
+[Warning] 19-06 15:32:38 || Failed to determine the https port for redirect.
+[Information] 19-06 15:32:38 || Executed DbCommand ("178"ms) [Parameters=["@__normalizedUserName_0='OWNER@TEST.COM' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[DateOfBirth], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[Nationality], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0"
+[Information] 19-06 15:32:39 || Executed DbCommand ("156"ms) [Parameters=["@__user_Id_0='cb4b8fb5-e960-4991-af35-19d49903f788' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [a].[Id], [a].[ClaimType], [a].[ClaimValue], [a].[UserId]
+FROM [AspNetUserClaims] AS [a]
+WHERE [a].[UserId] = @__user_Id_0"
+[Information] 19-06 15:32:39 || Executed DbCommand ("153"ms) [Parameters=["@__userId_0='cb4b8fb5-e960-4991-af35-19d49903f788' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0"
+[Information] 19-06 15:32:39 || Executed DbCommand ("154"ms) [Parameters=["@__normalizedName_0='OWNER' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0"
+[Information] 19-06 15:32:39 || Executed DbCommand ("152"ms) [Parameters=["@__role_Id_0='7f62099d-c0f5-41a2-af6d-8875caab1613' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [a].[ClaimType], [a].[ClaimValue]
+FROM [AspNetRoleClaims] AS [a]
+WHERE [a].[RoleId] = @__role_Id_0"
+[Warning] 19-06 15:33:58 || HTTP "POST" "/api/restaurants/999000/logo" responded 400 in 57.0448 ms
+[Warning] 19-06 15:34:53 || HTTP "POST" "/api/restaurants/999000/logo" responded 400 in 30.4400 ms
+[Warning] 19-06 15:35:23 || HTTP "POST" "/api/restaurants/99904/logo" responded 400 in 5.3165 ms
+[Warning] 19-06 15:41:59 || Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+[Warning] 19-06 15:42:00 || The entity type '"Address"' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+[Warning] 19-06 15:42:00 || No store type was specified for the decimal property '"Price"' on entity type '"Dish"'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[Information] 19-06 15:42:01 || Executed DbCommand ("153"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[Information] 19-06 15:42:01 || Executed DbCommand ("165"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');"
+[Information] 19-06 15:42:01 || Executed DbCommand ("149"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];"
+[Information] 19-06 15:42:01 || Executed DbCommand ("161"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[Information] 19-06 15:42:01 || Executed DbCommand ("148"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [AspNetRoles] AS [a]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END"
+[Information] 19-06 15:42:02 || Executed DbCommand ("147"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [AspNetUsers] AS [a]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END"
+[Information] 19-06 15:42:02 || Executed DbCommand ("148"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Restaurants] AS [r]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END"
+[Warning] 19-06 15:42:17 || Failed to determine the https port for redirect.
+[Information] 19-06 15:42:18 || Executed DbCommand ("173"ms) [Parameters=["@__normalizedUserName_0='OWNER@TEST.COM' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[DateOfBirth], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[Nationality], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0"
+[Information] 19-06 15:42:18 || Executed DbCommand ("151"ms) [Parameters=["@__user_Id_0='cb4b8fb5-e960-4991-af35-19d49903f788' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [a].[Id], [a].[ClaimType], [a].[ClaimValue], [a].[UserId]
+FROM [AspNetUserClaims] AS [a]
+WHERE [a].[UserId] = @__user_Id_0"
+[Information] 19-06 15:42:18 || Executed DbCommand ("151"ms) [Parameters=["@__userId_0='cb4b8fb5-e960-4991-af35-19d49903f788' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0"
+[Information] 19-06 15:42:19 || Executed DbCommand ("158"ms) [Parameters=["@__normalizedName_0='OWNER' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0"
+[Information] 19-06 15:42:19 || Executed DbCommand ("150"ms) [Parameters=["@__role_Id_0='7f62099d-c0f5-41a2-af6d-8875caab1613' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [a].[ClaimType], [a].[ClaimValue]
+FROM [AspNetRoleClaims] AS [a]
+WHERE [a].[RoleId] = @__role_Id_0"
+[Warning] 19-06 15:44:04 || Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+[Warning] 19-06 15:44:04 || The entity type '"Address"' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+[Warning] 19-06 15:44:04 || No store type was specified for the decimal property '"Price"' on entity type '"Dish"'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[Information] 19-06 15:44:05 || Executed DbCommand ("163"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[Information] 19-06 15:44:06 || Executed DbCommand ("167"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');"
+[Information] 19-06 15:44:06 || Executed DbCommand ("158"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];"
+[Information] 19-06 15:44:06 || Executed DbCommand ("163"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[Information] 19-06 15:44:06 || Executed DbCommand ("153"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [AspNetRoles] AS [a]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END"
+[Information] 19-06 15:44:06 || Executed DbCommand ("153"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [AspNetUsers] AS [a]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END"
+[Information] 19-06 15:44:07 || Executed DbCommand ("155"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Restaurants] AS [r]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END"
+[Warning] 19-06 15:44:19 || Failed to determine the https port for redirect.
+[Information] 19-06 15:44:19 || Executed DbCommand ("175"ms) [Parameters=["@__normalizedUserName_0='OWNER@TEST.COM' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[DateOfBirth], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[Nationality], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0"
+[Information] 19-06 15:44:20 || Executed DbCommand ("153"ms) [Parameters=["@__user_Id_0='cb4b8fb5-e960-4991-af35-19d49903f788' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [a].[Id], [a].[ClaimType], [a].[ClaimValue], [a].[UserId]
+FROM [AspNetUserClaims] AS [a]
+WHERE [a].[UserId] = @__user_Id_0"
+[Information] 19-06 15:44:20 || Executed DbCommand ("154"ms) [Parameters=["@__userId_0='cb4b8fb5-e960-4991-af35-19d49903f788' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0"
+[Information] 19-06 15:44:20 || Executed DbCommand ("152"ms) [Parameters=["@__normalizedName_0='OWNER' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0"
+[Information] 19-06 15:44:20 || Executed DbCommand ("154"ms) [Parameters=["@__role_Id_0='7f62099d-c0f5-41a2-af6d-8875caab1613' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [a].[ClaimType], [a].[ClaimValue]
+FROM [AspNetRoleClaims] AS [a]
+WHERE [a].[RoleId] = @__role_Id_0"
+[Information] 19-06 15:44:42 || Executed DbCommand ("195"ms) [Parameters=["@__request_RestaurantId_0='0'"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [r].[Id], [r].[Category], [r].[ContactEmail], [r].[ContactNumber], [r].[Description], [r].[HasDelivery], [r].[LogoUrl], [r].[Name], [r].[OwnerId], [r].[Address_City], [r].[Address_PostalCode], [r].[Address_Street]
+FROM [Restaurants] AS [r]
+WHERE [r].[Id] = @__request_RestaurantId_0"
+[Error] 19-06 15:44:42 || An unhandled exception has occurred while executing the request.
+Resturants.Domain.Exceptions.NotFoundException: Restaurant [0] doesn't exist
+   at Resturants.Application.Restaurants.Commands.UploadRestaurantLogo.UploadRestaurantLogoCommandHandler.Handle(UploadRestaurantLogoCommand request, CancellationToken cancellationToken) in C:\Users\ahmed\source\repos\Resturants\Src\Core\Resturants.Application\Restaurants\Commands\UploadRestaurantLogo\UploadRestaurantLogoCommandHandler.cs:line 26
+   at MediatR.Wrappers.RequestHandlerWrapperImpl`1.<>c__DisplayClass1_0.<<Handle>g__Handler|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Resturants.Api.Controllers.RestaurantController.UploadLogo(Int32 restaurantId, IFormFile file) in C:\Users\ahmed\source\repos\Resturants\Src\Resturants.Api\Controllers\RestaurantController.cs:line 91
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+[Error] 19-06 15:44:42 || Restaurant [0] doesn't exist
+Resturants.Domain.Exceptions.NotFoundException: Restaurant [0] doesn't exist
+   at Resturants.Application.Restaurants.Commands.UploadRestaurantLogo.UploadRestaurantLogoCommandHandler.Handle(UploadRestaurantLogoCommand request, CancellationToken cancellationToken) in C:\Users\ahmed\source\repos\Resturants\Src\Core\Resturants.Application\Restaurants\Commands\UploadRestaurantLogo\UploadRestaurantLogoCommandHandler.cs:line 26
+   at MediatR.Wrappers.RequestHandlerWrapperImpl`1.<>c__DisplayClass1_0.<<Handle>g__Handler|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Resturants.Api.Controllers.RestaurantController.UploadLogo(Int32 restaurantId, IFormFile file) in C:\Users\ahmed\source\repos\Resturants\Src\Resturants.Api\Controllers\RestaurantController.cs:line 91
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+[Information] 19-06 15:44:53 || Executed DbCommand ("154"ms) [Parameters=["@__request_RestaurantId_0='99904'"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [r].[Id], [r].[Category], [r].[ContactEmail], [r].[ContactNumber], [r].[Description], [r].[HasDelivery], [r].[LogoUrl], [r].[Name], [r].[OwnerId], [r].[Address_City], [r].[Address_PostalCode], [r].[Address_Street]
+FROM [Restaurants] AS [r]
+WHERE [r].[Id] = @__request_RestaurantId_0"
+[Information] 19-06 15:44:55 || Executed DbCommand ("183"ms) [Parameters=["@p1='99904', @p0='https://restaurantsstorage.blob.core.windows.net/logos/restaurant-logo-design-vector.jpg' (Size = 4000)"], CommandType='Text', CommandTimeout='30']"
+""SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [Restaurants] SET [LogoUrl] = @p0
+OUTPUT 1
+WHERE [Id] = @p1;"
+[Warning] 19-06 15:49:36 || Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+[Warning] 19-06 15:49:36 || The entity type '"Address"' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+[Warning] 19-06 15:49:36 || No store type was specified for the decimal property '"Price"' on entity type '"Dish"'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[Information] 19-06 15:49:37 || Executed DbCommand ("149"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[Information] 19-06 15:49:37 || Executed DbCommand ("156"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');"
+[Information] 19-06 15:49:38 || Executed DbCommand ("147"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];"
+[Information] 19-06 15:49:38 || Executed DbCommand ("156"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[Information] 19-06 15:49:38 || Executed DbCommand ("142"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [AspNetRoles] AS [a]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END"
+[Information] 19-06 15:49:38 || Executed DbCommand ("144"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [AspNetUsers] AS [a]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END"
+[Information] 19-06 15:49:38 || Executed DbCommand ("142"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Restaurants] AS [r]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END"
+[Warning] 19-06 15:49:51 || Failed to determine the https port for redirect.
+[Information] 19-06 15:49:51 || Executed DbCommand ("169"ms) [Parameters=["@__normalizedUserName_0='OWNER@TEST.COM' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[DateOfBirth], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[Nationality], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0"
+[Information] 19-06 15:49:51 || Executed DbCommand ("146"ms) [Parameters=["@__user_Id_0='cb4b8fb5-e960-4991-af35-19d49903f788' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [a].[Id], [a].[ClaimType], [a].[ClaimValue], [a].[UserId]
+FROM [AspNetUserClaims] AS [a]
+WHERE [a].[UserId] = @__user_Id_0"
+[Information] 19-06 15:49:52 || Executed DbCommand ("147"ms) [Parameters=["@__userId_0='cb4b8fb5-e960-4991-af35-19d49903f788' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0"
+[Information] 19-06 15:49:52 || Executed DbCommand ("146"ms) [Parameters=["@__normalizedName_0='OWNER' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0"
+[Information] 19-06 15:49:52 || Executed DbCommand ("144"ms) [Parameters=["@__role_Id_0='7f62099d-c0f5-41a2-af6d-8875caab1613' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [a].[ClaimType], [a].[ClaimValue]
+FROM [AspNetRoleClaims] AS [a]
+WHERE [a].[RoleId] = @__role_Id_0"
+[Warning] 19-06 15:50:14 || HTTP "POST" "/api/restaurants/99904/logo" responded 400 in 55.8305 ms
+[Information] 19-06 15:51:28 || Executed DbCommand ("147"ms) [Parameters=["@__request_RestaurantId_0='0'"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [r].[Id], [r].[Category], [r].[ContactEmail], [r].[ContactNumber], [r].[Description], [r].[HasDelivery], [r].[LogoUrl], [r].[Name], [r].[OwnerId], [r].[Address_City], [r].[Address_PostalCode], [r].[Address_Street]
+FROM [Restaurants] AS [r]
+WHERE [r].[Id] = @__request_RestaurantId_0"
+[Error] 19-06 15:51:28 || An unhandled exception has occurred while executing the request.
+Resturants.Domain.Exceptions.NotFoundException: Restaurant [0] doesn't exist
+   at Resturants.Application.Restaurants.Commands.UploadRestaurantLogo.UploadRestaurantLogoCommandHandler.Handle(UploadRestaurantLogoCommand request, CancellationToken cancellationToken) in C:\Users\ahmed\source\repos\Resturants\Src\Core\Resturants.Application\Restaurants\Commands\UploadRestaurantLogo\UploadRestaurantLogoCommandHandler.cs:line 26
+   at MediatR.Wrappers.RequestHandlerWrapperImpl`1.<>c__DisplayClass1_0.<<Handle>g__Handler|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Resturants.Api.Controllers.RestaurantController.UploadLogo(Int32 restaurantId, IFormFile file) in C:\Users\ahmed\source\repos\Resturants\Src\Resturants.Api\Controllers\RestaurantController.cs:line 91
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+[Error] 19-06 15:51:28 || Restaurant [0] doesn't exist
+Resturants.Domain.Exceptions.NotFoundException: Restaurant [0] doesn't exist
+   at Resturants.Application.Restaurants.Commands.UploadRestaurantLogo.UploadRestaurantLogoCommandHandler.Handle(UploadRestaurantLogoCommand request, CancellationToken cancellationToken) in C:\Users\ahmed\source\repos\Resturants\Src\Core\Resturants.Application\Restaurants\Commands\UploadRestaurantLogo\UploadRestaurantLogoCommandHandler.cs:line 26
+   at MediatR.Wrappers.RequestHandlerWrapperImpl`1.<>c__DisplayClass1_0.<<Handle>g__Handler|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Resturants.Api.Controllers.RestaurantController.UploadLogo(Int32 restaurantId, IFormFile file) in C:\Users\ahmed\source\repos\Resturants\Src\Resturants.Api\Controllers\RestaurantController.cs:line 91
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+[Warning] 19-06 15:52:15 || Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+[Warning] 19-06 15:52:15 || The entity type '"Address"' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+[Warning] 19-06 15:52:15 || No store type was specified for the decimal property '"Price"' on entity type '"Dish"'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[Information] 19-06 15:52:17 || Executed DbCommand ("154"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[Information] 19-06 15:52:17 || Executed DbCommand ("162"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');"
+[Information] 19-06 15:52:17 || Executed DbCommand ("150"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];"
+[Information] 19-06 15:52:17 || Executed DbCommand ("156"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[Information] 19-06 15:52:18 || Executed DbCommand ("147"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [AspNetRoles] AS [a]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END"
+[Information] 19-06 15:52:18 || Executed DbCommand ("148"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [AspNetUsers] AS [a]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END"
+[Information] 19-06 15:52:18 || Executed DbCommand ("148"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Restaurants] AS [r]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END"
+[Warning] 19-06 15:52:29 || Failed to determine the https port for redirect.
+[Information] 19-06 15:52:29 || Executed DbCommand ("167"ms) [Parameters=["@__normalizedUserName_0='OWNER@TEST.COM' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[DateOfBirth], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[Nationality], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0"
+[Information] 19-06 15:52:29 || Executed DbCommand ("146"ms) [Parameters=["@__user_Id_0='cb4b8fb5-e960-4991-af35-19d49903f788' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [a].[Id], [a].[ClaimType], [a].[ClaimValue], [a].[UserId]
+FROM [AspNetUserClaims] AS [a]
+WHERE [a].[UserId] = @__user_Id_0"
+[Information] 19-06 15:52:30 || Executed DbCommand ("146"ms) [Parameters=["@__userId_0='cb4b8fb5-e960-4991-af35-19d49903f788' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0"
+[Information] 19-06 15:52:30 || Executed DbCommand ("147"ms) [Parameters=["@__normalizedName_0='OWNER' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0"
+[Information] 19-06 15:52:30 || Executed DbCommand ("146"ms) [Parameters=["@__role_Id_0='7f62099d-c0f5-41a2-af6d-8875caab1613' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [a].[ClaimType], [a].[ClaimValue]
+FROM [AspNetRoleClaims] AS [a]
+WHERE [a].[RoleId] = @__role_Id_0"
+[Warning] 19-06 15:52:44 || HTTP "POST" "/api/restaurants/342432/logo" responded 400 in 70.2846 ms
+[Warning] 19-06 15:52:49 || HTTP "POST" "/api/restaurants/342432/logo" responded 400 in 9.0874 ms
+[Information] 19-06 15:53:07 || Executed DbCommand ("150"ms) [Parameters=["@__request_RestaurantId_0='342432'"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [r].[Id], [r].[Category], [r].[ContactEmail], [r].[ContactNumber], [r].[Description], [r].[HasDelivery], [r].[LogoUrl], [r].[Name], [r].[OwnerId], [r].[Address_City], [r].[Address_PostalCode], [r].[Address_Street]
+FROM [Restaurants] AS [r]
+WHERE [r].[Id] = @__request_RestaurantId_0"
+[Error] 19-06 15:53:07 || An unhandled exception has occurred while executing the request.
+Resturants.Domain.Exceptions.NotFoundException: Restaurant [342432] doesn't exist
+   at Resturants.Application.Restaurants.Commands.UploadRestaurantLogo.UploadRestaurantLogoCommandHandler.Handle(UploadRestaurantLogoCommand request, CancellationToken cancellationToken) in C:\Users\ahmed\source\repos\Resturants\Src\Core\Resturants.Application\Restaurants\Commands\UploadRestaurantLogo\UploadRestaurantLogoCommandHandler.cs:line 26
+   at MediatR.Wrappers.RequestHandlerWrapperImpl`1.<>c__DisplayClass1_0.<<Handle>g__Handler|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Resturants.Api.Controllers.RestaurantController.UploadLogo(Int32 id, IFormFile file) in C:\Users\ahmed\source\repos\Resturants\Src\Resturants.Api\Controllers\RestaurantController.cs:line 91
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+[Error] 19-06 15:53:07 || Restaurant [342432] doesn't exist
+Resturants.Domain.Exceptions.NotFoundException: Restaurant [342432] doesn't exist
+   at Resturants.Application.Restaurants.Commands.UploadRestaurantLogo.UploadRestaurantLogoCommandHandler.Handle(UploadRestaurantLogoCommand request, CancellationToken cancellationToken) in C:\Users\ahmed\source\repos\Resturants\Src\Core\Resturants.Application\Restaurants\Commands\UploadRestaurantLogo\UploadRestaurantLogoCommandHandler.cs:line 26
+   at MediatR.Wrappers.RequestHandlerWrapperImpl`1.<>c__DisplayClass1_0.<<Handle>g__Handler|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Resturants.Api.Controllers.RestaurantController.UploadLogo(Int32 id, IFormFile file) in C:\Users\ahmed\source\repos\Resturants\Src\Resturants.Api\Controllers\RestaurantController.cs:line 91
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+[Information] 19-06 15:53:13 || Executed DbCommand ("149"ms) [Parameters=["@__request_RestaurantId_0='99904'"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [r].[Id], [r].[Category], [r].[ContactEmail], [r].[ContactNumber], [r].[Description], [r].[HasDelivery], [r].[LogoUrl], [r].[Name], [r].[OwnerId], [r].[Address_City], [r].[Address_PostalCode], [r].[Address_Street]
+FROM [Restaurants] AS [r]
+WHERE [r].[Id] = @__request_RestaurantId_0"
+[Information] 19-06 15:53:14 || Executed DbCommand ("153"ms) [Parameters=["@p1='99904', @p0='https://restaurantsstorage.blob.core.windows.net/logos/images.png' (Size = 4000)"], CommandType='Text', CommandTimeout='30']"
+""SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [Restaurants] SET [LogoUrl] = @p0
+OUTPUT 1
+WHERE [Id] = @p1;"
+[Warning] 19-06 16:03:54 || Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+[Warning] 19-06 16:03:54 || The entity type '"Address"' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+[Warning] 19-06 16:03:54 || No store type was specified for the decimal property '"Price"' on entity type '"Dish"'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[Information] 19-06 16:03:55 || Executed DbCommand ("157"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[Information] 19-06 16:03:55 || Executed DbCommand ("161"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');"
+[Information] 19-06 16:03:55 || Executed DbCommand ("157"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];"
+[Information] 19-06 16:03:55 || Executed DbCommand ("161"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[Information] 19-06 16:03:56 || Executed DbCommand ("146"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [AspNetRoles] AS [a]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END"
+[Information] 19-06 16:03:56 || Executed DbCommand ("148"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [AspNetUsers] AS [a]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END"
+[Information] 19-06 16:03:56 || Executed DbCommand ("147"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Restaurants] AS [r]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END"
+[Warning] 19-06 16:04:22 || Failed to determine the https port for redirect.
+[Information] 19-06 16:04:23 || Executed DbCommand ("178"ms) [Parameters=["@__normalizedUserName_0='OWNER@TEST.COM' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[DateOfBirth], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[Nationality], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0"
+[Information] 19-06 16:04:23 || Executed DbCommand ("147"ms) [Parameters=["@__user_Id_0='cb4b8fb5-e960-4991-af35-19d49903f788' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [a].[Id], [a].[ClaimType], [a].[ClaimValue], [a].[UserId]
+FROM [AspNetUserClaims] AS [a]
+WHERE [a].[UserId] = @__user_Id_0"
+[Information] 19-06 16:04:23 || Executed DbCommand ("149"ms) [Parameters=["@__userId_0='cb4b8fb5-e960-4991-af35-19d49903f788' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0"
+[Information] 19-06 16:04:24 || Executed DbCommand ("149"ms) [Parameters=["@__normalizedName_0='OWNER' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0"
+[Information] 19-06 16:04:24 || Executed DbCommand ("152"ms) [Parameters=["@__role_Id_0='7f62099d-c0f5-41a2-af6d-8875caab1613' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [a].[ClaimType], [a].[ClaimValue]
+FROM [AspNetRoleClaims] AS [a]
+WHERE [a].[RoleId] = @__role_Id_0"
+[Information] 19-06 16:04:49 || Executed DbCommand ("150"ms) [Parameters=["@__request_RestaurantId_0='99904'"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [r].[Id], [r].[Category], [r].[ContactEmail], [r].[ContactNumber], [r].[Description], [r].[HasDelivery], [r].[LogoUrl], [r].[Name], [r].[OwnerId], [r].[Address_City], [r].[Address_PostalCode], [r].[Address_Street]
+FROM [Restaurants] AS [r]
+WHERE [r].[Id] = @__request_RestaurantId_0"
+[Information] 19-06 16:04:51 || Executed DbCommand ("155"ms) [Parameters=["@p1='99904', @p0='https://restaurantsstorage.blob.core.windows.net/logos/3a7abf31-5be0-42a6-8575-46b8d00a05d4_restaurant-logo-design-vector.jpg' (Size = 4000)"], CommandType='Text', CommandTimeout='30']"
+""SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [Restaurants] SET [LogoUrl] = @p0
+OUTPUT 1
+WHERE [Id] = @p1;"
+[Warning] 19-06 16:05:22 || Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+[Warning] 19-06 16:05:22 || The entity type '"Address"' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+[Warning] 19-06 16:05:22 || No store type was specified for the decimal property '"Price"' on entity type '"Dish"'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[Information] 19-06 16:05:23 || Executed DbCommand ("155"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[Information] 19-06 16:05:23 || Executed DbCommand ("159"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');"
+[Information] 19-06 16:05:23 || Executed DbCommand ("159"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];"
+[Information] 19-06 16:05:24 || Executed DbCommand ("157"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[Information] 19-06 16:05:24 || Executed DbCommand ("149"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [AspNetRoles] AS [a]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END"
+[Information] 19-06 16:05:24 || Executed DbCommand ("150"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [AspNetUsers] AS [a]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END"
+[Information] 19-06 16:05:24 || Executed DbCommand ("146"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Restaurants] AS [r]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END"
+[Warning] 19-06 16:05:42 || Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+[Warning] 19-06 16:05:42 || The entity type '"Address"' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+[Warning] 19-06 16:05:42 || No store type was specified for the decimal property '"Price"' on entity type '"Dish"'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[Warning] 19-06 18:48:00 || Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+[Warning] 19-06 18:48:00 || The entity type '"Address"' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+[Warning] 19-06 18:48:00 || No store type was specified for the decimal property '"Price"' on entity type '"Dish"'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[Information] 19-06 18:48:01 || Executed DbCommand ("151"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[Information] 19-06 18:48:01 || Executed DbCommand ("156"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');"
+[Information] 19-06 18:48:01 || Executed DbCommand ("146"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];"
+[Information] 19-06 18:48:01 || Executed DbCommand ("157"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[Information] 19-06 18:48:02 || Executed DbCommand ("144"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [AspNetRoles] AS [a]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END"
+[Information] 19-06 18:48:02 || Executed DbCommand ("143"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [AspNetUsers] AS [a]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END"
+[Information] 19-06 18:48:02 || Executed DbCommand ("143"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Restaurants] AS [r]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END"
+[Warning] 19-06 18:51:13 || Failed to determine the https port for redirect.
+[Information] 19-06 18:51:13 || Executed DbCommand ("169"ms) [Parameters=["@__normalizedUserName_0='OWNER@TEST.COM' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[DateOfBirth], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[Nationality], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0"
+[Information] 19-06 18:51:13 || Executed DbCommand ("145"ms) [Parameters=["@__user_Id_0='cb4b8fb5-e960-4991-af35-19d49903f788' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [a].[Id], [a].[ClaimType], [a].[ClaimValue], [a].[UserId]
+FROM [AspNetUserClaims] AS [a]
+WHERE [a].[UserId] = @__user_Id_0"
+[Information] 19-06 18:51:14 || Executed DbCommand ("145"ms) [Parameters=["@__userId_0='cb4b8fb5-e960-4991-af35-19d49903f788' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0"
+[Information] 19-06 18:51:14 || Executed DbCommand ("145"ms) [Parameters=["@__normalizedName_0='OWNER' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0"
+[Information] 19-06 18:51:14 || Executed DbCommand ("143"ms) [Parameters=["@__role_Id_0='7f62099d-c0f5-41a2-af6d-8875caab1613' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [a].[ClaimType], [a].[ClaimValue]
+FROM [AspNetRoleClaims] AS [a]
+WHERE [a].[RoleId] = @__role_Id_0"
+[Warning] 19-06 18:54:10 || HTTP "GET" "/api/restaurants" responded 403 in 10.4790 ms
+[Warning] 19-06 18:54:29 || HTTP "GET" "/api/restaurants" responded 403 in 2.5000 ms
+[Information] 19-06 18:54:48 || Executed DbCommand ("146"ms) [Parameters=["@__p_0='cb4b8fb5-e960-4991-af35-19d49903f788' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[DateOfBirth], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[Nationality], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[Id] = @__p_0"
+[Information] 19-06 18:54:48 || Executed DbCommand ("145"ms) [Parameters=["@__normalizedUserName_0='OWNER@TEST.COM' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[DateOfBirth], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[Nationality], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0"
+[Information] 19-06 18:54:49 || Executed DbCommand ("182"ms) [Parameters=["@p16='cb4b8fb5-e960-4991-af35-19d49903f788' (Nullable = false) (Size = 450), @p0='0', @p1='c8ed280e-6838-4eb9-aa06-c25e14e812d2' (Size = 4000), @p17='bd95c8c1-7bc4-4083-849c-9e31ca8ce4b1' (Size = 4000), @p2='06/19/2000' (Nullable = true) (DbType = Date), @p3='owner@test.com' (Size = 256), @p4='True', @p5='True', @p6=NULL (DbType = DateTimeOffset), @p7='Egyptian' (Size = 4000), @p8='OWNER@TEST.COM' (Size = 256), @p9='OWNER@TEST.COM' (Size = 256), @p10='AQAAAAIAAYagAAAAEB/UlhjJ4CiktwEzWUzKWiKCOd6P4pi+rhbchTKobvf8W3svlqrWLcD/+2pQAy9G+A==' (Size = 4000), @p11=NULL (Size = 4000), @p12='False', @p13='AP3ZBHU54U2XQFAKHAKYRETUHC7YHYD6' (Size = 4000), @p14='False', @p15='owner@test.com' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [AspNetUsers] SET [AccessFailedCount] = @p0, [ConcurrencyStamp] = @p1, [DateOfBirth] = @p2, [Email] = @p3, [EmailConfirmed] = @p4, [LockoutEnabled] = @p5, [LockoutEnd] = @p6, [Nationality] = @p7, [NormalizedEmail] = @p8, [NormalizedUserName] = @p9, [PasswordHash] = @p10, [PhoneNumber] = @p11, [PhoneNumberConfirmed] = @p12, [SecurityStamp] = @p13, [TwoFactorEnabled] = @p14, [UserName] = @p15
+OUTPUT 1
+WHERE [Id] = @p16 AND [ConcurrencyStamp] = @p17;"
+[Information] 19-06 18:54:49 || user with id = "cb4b8fb5-e960-4991-af35-19d49903f788" is being update, updated info: UpdateUserDetailsCommand { DateOfBirth: 06/19/2000, Nationality: "Egyptian" }
+[Warning] 19-06 18:54:51 || HTTP "GET" "/api/restaurants" responded 403 in 0.1042 ms
+[Information] 19-06 18:55:15 || Executed DbCommand ("147"ms) [Parameters=["@__normalizedUserName_0='ADMIN@TEST.COM' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[DateOfBirth], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[Nationality], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0"
+[Information] 19-06 18:55:15 || Executed DbCommand ("145"ms) [Parameters=["@__user_Id_0='2225df88-d3e2-4375-8e31-45f635fb4e8b' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [a].[Id], [a].[ClaimType], [a].[ClaimValue], [a].[UserId]
+FROM [AspNetUserClaims] AS [a]
+WHERE [a].[UserId] = @__user_Id_0"
+[Information] 19-06 18:55:15 || Executed DbCommand ("144"ms) [Parameters=["@__userId_0='2225df88-d3e2-4375-8e31-45f635fb4e8b' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0"
+[Information] 19-06 18:55:15 || Executed DbCommand ("144"ms) [Parameters=["@__normalizedName_0='ADMIN' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0"
+[Information] 19-06 18:55:15 || Executed DbCommand ("144"ms) [Parameters=["@__role_Id_0='a8e4db52-48b1-49e1-9405-4640f3ff43dd' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [a].[ClaimType], [a].[ClaimValue]
+FROM [AspNetRoleClaims] AS [a]
+WHERE [a].[RoleId] = @__role_Id_0"
+[Warning] 19-06 18:55:32 || HTTP "GET" "/api/restaurants" responded 403 in 0.2775 ms
+[Information] 19-06 18:57:09 || Executed DbCommand ("147"ms) [Parameters=["@__p_0='2225df88-d3e2-4375-8e31-45f635fb4e8b' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[DateOfBirth], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[Nationality], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[Id] = @__p_0"
+[Information] 19-06 18:57:09 || Executed DbCommand ("147"ms) [Parameters=["@__normalizedUserName_0='ADMIN@TEST.COM' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[DateOfBirth], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[Nationality], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0"
+[Information] 19-06 18:57:09 || Executed DbCommand ("182"ms) [Parameters=["@p16='2225df88-d3e2-4375-8e31-45f635fb4e8b' (Nullable = false) (Size = 450), @p0='0', @p1='ec79d56c-d06d-4fe7-8a01-00e8685fe4fd' (Size = 4000), @p17='087956ea-e97c-4359-8a6e-47a6e112f811' (Size = 4000), @p2='06/19/2000' (Nullable = true) (DbType = Date), @p3='admin@test.com' (Size = 256), @p4='True', @p5='True', @p6=NULL (DbType = DateTimeOffset), @p7='Egyptian' (Size = 4000), @p8='ADMIN@TEST.COM' (Size = 256), @p9='ADMIN@TEST.COM' (Size = 256), @p10='AQAAAAIAAYagAAAAEM2leHvwKbUBM5HsGaW8uxmanKNgvrxFgo5cR7rvjj/jgVta8ZaFG5jnzoTdnk29+w==' (Size = 4000), @p11=NULL (Size = 4000), @p12='False', @p13='5UPJ2IK7IVHMXLWLZZSQT7D2UPQMLI3O' (Size = 4000), @p14='False', @p15='admin@test.com' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [AspNetUsers] SET [AccessFailedCount] = @p0, [ConcurrencyStamp] = @p1, [DateOfBirth] = @p2, [Email] = @p3, [EmailConfirmed] = @p4, [LockoutEnabled] = @p5, [LockoutEnd] = @p6, [Nationality] = @p7, [NormalizedEmail] = @p8, [NormalizedUserName] = @p9, [PasswordHash] = @p10, [PhoneNumber] = @p11, [PhoneNumberConfirmed] = @p12, [SecurityStamp] = @p13, [TwoFactorEnabled] = @p14, [UserName] = @p15
+OUTPUT 1
+WHERE [Id] = @p16 AND [ConcurrencyStamp] = @p17;"
+[Information] 19-06 18:57:09 || user with id = "2225df88-d3e2-4375-8e31-45f635fb4e8b" is being update, updated info: UpdateUserDetailsCommand { DateOfBirth: 06/19/2000, Nationality: "Egyptian" }
+[Information] 19-06 18:57:16 || Executed DbCommand ("147"ms) [Parameters=["@__normalizedUserName_0='ADMIN@TEST.COM' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[DateOfBirth], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[Nationality], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0"
+[Information] 19-06 18:57:16 || Executed DbCommand ("150"ms) [Parameters=["@__user_Id_0='2225df88-d3e2-4375-8e31-45f635fb4e8b' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [a].[Id], [a].[ClaimType], [a].[ClaimValue], [a].[UserId]
+FROM [AspNetUserClaims] AS [a]
+WHERE [a].[UserId] = @__user_Id_0"
+[Information] 19-06 18:57:17 || Executed DbCommand ("146"ms) [Parameters=["@__userId_0='2225df88-d3e2-4375-8e31-45f635fb4e8b' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0"
+[Information] 19-06 18:57:17 || Executed DbCommand ("144"ms) [Parameters=["@__normalizedName_0='ADMIN' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0"
+[Information] 19-06 18:57:17 || Executed DbCommand ("146"ms) [Parameters=["@__role_Id_0='a8e4db52-48b1-49e1-9405-4640f3ff43dd' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [a].[ClaimType], [a].[ClaimValue]
+FROM [AspNetRoleClaims] AS [a]
+WHERE [a].[RoleId] = @__role_Id_0"
+[Information] 19-06 18:57:31 || Executed DbCommand ("808"ms) [Parameters=["@__lowerSearchCritrea_0_contains='%french%' (Size = 150), @__lowerSearchCritrea_0_contains_1='%french%' (Size = 4000)"], CommandType='Text', CommandTimeout='30']"
+""SELECT COUNT(*)
+FROM [Restaurants] AS [r]
+WHERE LOWER([r].[Name]) LIKE @__lowerSearchCritrea_0_contains ESCAPE N'\' OR LOWER([r].[Category]) LIKE @__lowerSearchCritrea_0_contains ESCAPE N'\' OR (([r].[Address_City] IS NOT NULL OR [r].[Address_PostalCode] IS NOT NULL OR [r].[Address_Street] IS NOT NULL) AND LOWER([r].[Address_City]) LIKE @__lowerSearchCritrea_0_contains_1 ESCAPE N'\') OR (([r].[Address_City] IS NOT NULL OR [r].[Address_PostalCode] IS NOT NULL OR [r].[Address_Street] IS NOT NULL) AND LOWER([r].[Address_Street]) LIKE @__lowerSearchCritrea_0_contains_1 ESCAPE N'\')"
+[Warning] 19-06 18:57:31 || The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+[Warning] 19-06 18:57:31 || The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+[Information] 19-06 18:57:31 || Executed DbCommand ("154"ms) [Parameters=["@__lowerSearchCritrea_0_contains='%french%' (Size = 150), @__lowerSearchCritrea_0_contains_1='%french%' (Size = 4000), @__p_1='0', @__p_2='5'"], CommandType='Text', CommandTimeout='30']"
+""SELECT [r].[Id], [r].[Category], [r].[ContactEmail], [r].[ContactNumber], [r].[Description], [r].[HasDelivery], [r].[LogoUrl], [r].[Name], [r].[OwnerId], [r].[Address_City], [r].[Address_PostalCode], [r].[Address_Street]
+FROM [Restaurants] AS [r]
+WHERE LOWER([r].[Name]) LIKE @__lowerSearchCritrea_0_contains ESCAPE N'\' OR LOWER([r].[Category]) LIKE @__lowerSearchCritrea_0_contains ESCAPE N'\' OR (([r].[Address_City] IS NOT NULL OR [r].[Address_PostalCode] IS NOT NULL OR [r].[Address_Street] IS NOT NULL) AND LOWER([r].[Address_City]) LIKE @__lowerSearchCritrea_0_contains_1 ESCAPE N'\') OR (([r].[Address_City] IS NOT NULL OR [r].[Address_PostalCode] IS NOT NULL OR [r].[Address_Street] IS NOT NULL) AND LOWER([r].[Address_Street]) LIKE @__lowerSearchCritrea_0_contains_1 ESCAPE N'\')
+ORDER BY (SELECT 1)
+OFFSET @__p_1 ROWS FETCH NEXT @__p_2 ROWS ONLY"
+[Warning] 19-06 19:06:07 || Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+[Warning] 19-06 19:06:07 || The entity type '"Address"' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+[Warning] 19-06 19:06:07 || No store type was specified for the decimal property '"Price"' on entity type '"Dish"'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[Information] 19-06 19:06:08 || Executed DbCommand ("156"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[Information] 19-06 19:06:08 || Executed DbCommand ("163"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');"
+[Information] 19-06 19:06:08 || Executed DbCommand ("150"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];"
+[Information] 19-06 19:06:08 || Executed DbCommand ("165"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[Information] 19-06 19:06:09 || Executed DbCommand ("146"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [AspNetRoles] AS [a]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END"
+[Information] 19-06 19:06:09 || Executed DbCommand ("148"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [AspNetUsers] AS [a]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END"
+[Information] 19-06 19:06:09 || Executed DbCommand ("149"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Restaurants] AS [r]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END"
+[Warning] 19-06 19:06:18 || Failed to determine the https port for redirect.
+[Information] 19-06 19:06:19 || Executed DbCommand ("171"ms) [Parameters=["@__normalizedUserName_0='OWNER@TEST.COM' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[DateOfBirth], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[Nationality], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0"
+[Information] 19-06 19:06:19 || Executed DbCommand ("150"ms) [Parameters=["@__user_Id_0='cb4b8fb5-e960-4991-af35-19d49903f788' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [a].[Id], [a].[ClaimType], [a].[ClaimValue], [a].[UserId]
+FROM [AspNetUserClaims] AS [a]
+WHERE [a].[UserId] = @__user_Id_0"
+[Information] 19-06 19:06:19 || Executed DbCommand ("148"ms) [Parameters=["@__userId_0='cb4b8fb5-e960-4991-af35-19d49903f788' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0"
+[Information] 19-06 19:06:20 || Executed DbCommand ("148"ms) [Parameters=["@__normalizedName_0='OWNER' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0"
+[Information] 19-06 19:06:20 || Executed DbCommand ("147"ms) [Parameters=["@__role_Id_0='7f62099d-c0f5-41a2-af6d-8875caab1613' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [a].[ClaimType], [a].[ClaimValue]
+FROM [AspNetRoleClaims] AS [a]
+WHERE [a].[RoleId] = @__role_Id_0"
+[Information] 19-06 19:07:05 || Executed DbCommand ("160"ms) [Parameters=["@__request_RestaurantId_0='99904'"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [r].[Id], [r].[Category], [r].[ContactEmail], [r].[ContactNumber], [r].[Description], [r].[HasDelivery], [r].[LogoUrl], [r].[Name], [r].[OwnerId], [r].[Address_City], [r].[Address_PostalCode], [r].[Address_Street]
+FROM [Restaurants] AS [r]
+WHERE [r].[Id] = @__request_RestaurantId_0"
+[Information] 19-06 19:07:06 || Executed DbCommand ("156"ms) [Parameters=["@p1='99904', @p0='https://restaurantsstorage.blob.core.windows.net/logos/89ecc9d4-a762-437e-9a00-e09699cc60f6_images.png' (Size = 4000)"], CommandType='Text', CommandTimeout='30']"
+""SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [Restaurants] SET [LogoUrl] = @p0
+OUTPUT 1
+WHERE [Id] = @p1;"
+[Error] 19-06 19:07:28 || An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Resturants.Application.Restaurants.Queries.GetLogo.GetLogoQueryHandler.Handle(GetLogoQuery request, CancellationToken cancellationToken) in C:\Users\ahmed\source\repos\Resturants\Src\Core\Resturants.Application\Restaurants\Queries\GetLogo\GetLogoQuery Handler.cs:line 18
+   at Resturants.Api.Controllers.RestaurantController.GetLogo(Int32 id) in C:\Users\ahmed\source\repos\Resturants\Src\Resturants.Api\Controllers\RestaurantController.cs:line 104
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+[Error] 19-06 19:07:28 || Object reference not set to an instance of an object.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Resturants.Application.Restaurants.Queries.GetLogo.GetLogoQueryHandler.Handle(GetLogoQuery request, CancellationToken cancellationToken) in C:\Users\ahmed\source\repos\Resturants\Src\Core\Resturants.Application\Restaurants\Queries\GetLogo\GetLogoQuery Handler.cs:line 18
+   at Resturants.Api.Controllers.RestaurantController.GetLogo(Int32 id) in C:\Users\ahmed\source\repos\Resturants\Src\Resturants.Api\Controllers\RestaurantController.cs:line 104
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+[Warning] 19-06 19:08:20 || Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+[Warning] 19-06 19:08:20 || The entity type '"Address"' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+[Warning] 19-06 19:08:20 || No store type was specified for the decimal property '"Price"' on entity type '"Dish"'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[Information] 19-06 19:08:21 || Executed DbCommand ("150"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[Information] 19-06 19:08:21 || Executed DbCommand ("157"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');"
+[Information] 19-06 19:08:21 || Executed DbCommand ("146"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];"
+[Information] 19-06 19:08:21 || Executed DbCommand ("153"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[Information] 19-06 19:08:22 || Executed DbCommand ("145"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [AspNetRoles] AS [a]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END"
+[Information] 19-06 19:08:22 || Executed DbCommand ("146"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [AspNetUsers] AS [a]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END"
+[Information] 19-06 19:08:22 || Executed DbCommand ("143"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Restaurants] AS [r]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END"
+[Warning] 19-06 19:09:48 || Failed to determine the https port for redirect.
+[Information] 19-06 19:09:48 || Executed DbCommand ("166"ms) [Parameters=["@__normalizedUserName_0='OWNER@TEST.COM' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[DateOfBirth], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[Nationality], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0"
+[Information] 19-06 19:09:49 || Executed DbCommand ("146"ms) [Parameters=["@__user_Id_0='cb4b8fb5-e960-4991-af35-19d49903f788' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [a].[Id], [a].[ClaimType], [a].[ClaimValue], [a].[UserId]
+FROM [AspNetUserClaims] AS [a]
+WHERE [a].[UserId] = @__user_Id_0"
+[Information] 19-06 19:09:49 || Executed DbCommand ("144"ms) [Parameters=["@__userId_0='cb4b8fb5-e960-4991-af35-19d49903f788' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0"
+[Information] 19-06 19:09:49 || Executed DbCommand ("144"ms) [Parameters=["@__normalizedName_0='OWNER' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0"
+[Information] 19-06 19:09:49 || Executed DbCommand ("145"ms) [Parameters=["@__role_Id_0='7f62099d-c0f5-41a2-af6d-8875caab1613' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [a].[ClaimType], [a].[ClaimValue]
+FROM [AspNetRoleClaims] AS [a]
+WHERE [a].[RoleId] = @__role_Id_0"
+[Information] 19-06 19:10:03 || Executed DbCommand ("148"ms) [Parameters=["@__request_RestaurantId_0='99904'"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [r].[Id], [r].[Category], [r].[ContactEmail], [r].[ContactNumber], [r].[Description], [r].[HasDelivery], [r].[LogoUrl], [r].[Name], [r].[OwnerId], [r].[Address_City], [r].[Address_PostalCode], [r].[Address_Street]
+FROM [Restaurants] AS [r]
+WHERE [r].[Id] = @__request_RestaurantId_0"
+[Information] 19-06 19:13:08 || Executed DbCommand ("148"ms) [Parameters=["@__request_RestaurantId_0='99904'"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [r].[Id], [r].[Category], [r].[ContactEmail], [r].[ContactNumber], [r].[Description], [r].[HasDelivery], [r].[LogoUrl], [r].[Name], [r].[OwnerId], [r].[Address_City], [r].[Address_PostalCode], [r].[Address_Street]
+FROM [Restaurants] AS [r]
+WHERE [r].[Id] = @__request_RestaurantId_0"
+[Information] 19-06 19:13:09 || Executed DbCommand ("179"ms) [Parameters=["@p1='99904', @p0='https://restaurantsstorage.blob.core.windows.net/logos/248997e6-748a-4000-a74c-8d28cee1e302_images.png' (Size = 4000)"], CommandType='Text', CommandTimeout='30']"
+""SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [Restaurants] SET [LogoUrl] = @p0
+OUTPUT 1
+WHERE [Id] = @p1;"
+[Information] 19-06 19:13:38 || Executed DbCommand ("148"ms) [Parameters=["@__request_RestaurantId_0='99904'"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [r].[Id], [r].[Category], [r].[ContactEmail], [r].[ContactNumber], [r].[Description], [r].[HasDelivery], [r].[LogoUrl], [r].[Name], [r].[OwnerId], [r].[Address_City], [r].[Address_PostalCode], [r].[Address_Street]
+FROM [Restaurants] AS [r]
+WHERE [r].[Id] = @__request_RestaurantId_0"
+[Information] 19-06 19:13:39 || Executed DbCommand ("149"ms) [Parameters=["@p1='99904', @p0='https://restaurantsstorage.blob.core.windows.net/logos/77e14f59-f06c-488b-ab2c-9e0a5b32d458_restaurant-logo-design-vector.jpg' (Size = 4000)"], CommandType='Text', CommandTimeout='30']"
+""SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [Restaurants] SET [LogoUrl] = @p0
+OUTPUT 1
+WHERE [Id] = @p1;"
+[Warning] 19-06 21:40:40 || Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+[Warning] 19-06 21:40:40 || The entity type '"Address"' is an optional dependent using table sharing without any required non shared property that could be used to identify whether the entity exists. If all nullable properties contain a null value in database then an object instance won't be created in the query. Add a required property to create instances with null values for other properties or mark the incoming navigation as required to always create an instance.
+[Warning] 19-06 21:40:40 || No store type was specified for the decimal property '"Price"' on entity type '"Dish"'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[Information] 19-06 21:40:41 || Executed DbCommand ("165"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[Information] 19-06 21:40:41 || Executed DbCommand ("160"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');"
+[Information] 19-06 21:40:42 || Executed DbCommand ("146"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];"
+[Information] 19-06 21:40:42 || Executed DbCommand ("158"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[Information] 19-06 21:40:42 || Executed DbCommand ("145"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [AspNetRoles] AS [a]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END"
+[Information] 19-06 21:40:42 || Executed DbCommand ("145"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [AspNetUsers] AS [a]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END"
+[Information] 19-06 21:40:42 || Executed DbCommand ("145"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Restaurants] AS [r]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END"
+[Warning] 19-06 21:40:58 || Failed to determine the https port for redirect.
+[Information] 19-06 21:40:58 || Executed DbCommand ("173"ms) [Parameters=["@__normalizedUserName_0='USER@TEST.COM' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[DateOfBirth], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[Nationality], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0"
+[Information] 19-06 21:40:59 || Executed DbCommand ("147"ms) [Parameters=["@__user_Id_0='87b857e0-9c43-46a8-bb37-2d712debc3b0' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [a].[Id], [a].[ClaimType], [a].[ClaimValue], [a].[UserId]
+FROM [AspNetUserClaims] AS [a]
+WHERE [a].[UserId] = @__user_Id_0"
+[Information] 19-06 21:40:59 || Executed DbCommand ("147"ms) [Parameters=["@__userId_0='87b857e0-9c43-46a8-bb37-2d712debc3b0' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0"
+[Information] 19-06 21:40:59 || Executed DbCommand ("145"ms) [Parameters=["@__normalizedName_0='USER' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0"
+[Information] 19-06 21:40:59 || Executed DbCommand ("148"ms) [Parameters=["@__role_Id_0='603b3cdd-490f-4630-8d4d-dc5bb3e76c29' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [a].[ClaimType], [a].[ClaimValue]
+FROM [AspNetRoleClaims] AS [a]
+WHERE [a].[RoleId] = @__role_Id_0"
+[Information] 19-06 21:41:24 || Executed DbCommand ("153"ms) [Parameters=["@__normalizedUserName_0='OWNER@TEST.COM' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[DateOfBirth], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[Nationality], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0"
+[Information] 19-06 21:41:24 || Executed DbCommand ("158"ms) [Parameters=["@__user_Id_0='cb4b8fb5-e960-4991-af35-19d49903f788' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [a].[Id], [a].[ClaimType], [a].[ClaimValue], [a].[UserId]
+FROM [AspNetUserClaims] AS [a]
+WHERE [a].[UserId] = @__user_Id_0"
+[Information] 19-06 21:41:24 || Executed DbCommand ("148"ms) [Parameters=["@__userId_0='cb4b8fb5-e960-4991-af35-19d49903f788' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0"
+[Information] 19-06 21:41:24 || Executed DbCommand ("148"ms) [Parameters=["@__normalizedName_0='OWNER' (Size = 256)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0"
+[Information] 19-06 21:41:24 || Executed DbCommand ("146"ms) [Parameters=["@__role_Id_0='7f62099d-c0f5-41a2-af6d-8875caab1613' (Size = 450)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [a].[ClaimType], [a].[ClaimValue]
+FROM [AspNetRoleClaims] AS [a]
+WHERE [a].[RoleId] = @__role_Id_0"
+[Information] 19-06 21:42:15 || Executed DbCommand ("148"ms) [Parameters=["@__request_RestaurantId_0='99903'"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [r].[Id], [r].[Category], [r].[ContactEmail], [r].[ContactNumber], [r].[Description], [r].[HasDelivery], [r].[LogoUrl], [r].[Name], [r].[OwnerId], [r].[Address_City], [r].[Address_PostalCode], [r].[Address_Street]
+FROM [Restaurants] AS [r]
+WHERE [r].[Id] = @__request_RestaurantId_0"
+[Error] 19-06 21:42:15 || An unhandled exception has occurred while executing the request.
+Resturants.Domain.Exceptions.NotFoundException: Restaurant [99903] doesn't exist
+   at Resturants.Application.Restaurants.Commands.UploadRestaurantLogo.UploadRestaurantLogoCommandHandler.Handle(UploadRestaurantLogoCommand request, CancellationToken cancellationToken) in C:\Users\ahmed\source\repos\Resturants\Src\Core\Resturants.Application\Restaurants\Commands\UploadRestaurantLogo\UploadRestaurantLogoCommandHandler.cs:line 26
+   at Resturants.Api.Controllers.RestaurantController.UploadLogo(Int32 id, IFormFile file) in C:\Users\ahmed\source\repos\Resturants\Src\Resturants.Api\Controllers\RestaurantController.cs:line 91
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+[Error] 19-06 21:42:15 || Restaurant [99903] doesn't exist
+Resturants.Domain.Exceptions.NotFoundException: Restaurant [99903] doesn't exist
+   at Resturants.Application.Restaurants.Commands.UploadRestaurantLogo.UploadRestaurantLogoCommandHandler.Handle(UploadRestaurantLogoCommand request, CancellationToken cancellationToken) in C:\Users\ahmed\source\repos\Resturants\Src\Core\Resturants.Application\Restaurants\Commands\UploadRestaurantLogo\UploadRestaurantLogoCommandHandler.cs:line 26
+   at Resturants.Api.Controllers.RestaurantController.UploadLogo(Int32 id, IFormFile file) in C:\Users\ahmed\source\repos\Resturants\Src\Resturants.Api\Controllers\RestaurantController.cs:line 91
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+[Information] 19-06 21:42:26 || Executed DbCommand ("150"ms) [Parameters=["@__request_RestaurantId_0='99995'"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [r].[Id], [r].[Category], [r].[ContactEmail], [r].[ContactNumber], [r].[Description], [r].[HasDelivery], [r].[LogoUrl], [r].[Name], [r].[OwnerId], [r].[Address_City], [r].[Address_PostalCode], [r].[Address_Street]
+FROM [Restaurants] AS [r]
+WHERE [r].[Id] = @__request_RestaurantId_0"
+[Information] 19-06 21:42:27 || Executed DbCommand ("156"ms) [Parameters=["@p1='99995', @p0='http://127.0.0.1:10000/devstoreaccount1/logos/3122cf8a-a5e6-4bfb-9ecc-bd7003a1ce6d_simple-illustration-of-food-delivery-and-restaurant-logo-design-inspiration-icon-vector.jpg' (Size = 4000)"], CommandType='Text', CommandTimeout='30']"
+""SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [Restaurants] SET [LogoUrl] = @p0
+OUTPUT 1
+WHERE [Id] = @p1;"
